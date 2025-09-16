@@ -1,0 +1,2 @@
+# estatistica
+Curso Estatística TeoMeWhy
